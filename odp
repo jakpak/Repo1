@@ -1,0 +1,3 @@
+śledzone są pliki .gitginore, readme i moj_program.c, ponieważ 
+polecenie git add . dodaje do śledzonych pliki, które zostały 
+zmodyfikowane lub stworzone i nie są ignorowane
